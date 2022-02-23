@@ -1,3 +1,3 @@
 # MyWebsite
 
-SITE -- harsh-parsonalsite.netlify.app
+SITE -- https://harsh-parsonalsite.netlify.app/
